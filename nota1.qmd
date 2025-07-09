@@ -1,0 +1,9 @@
+---
+title: "Reportes de Cohesión Social"
+subtitle: "N°1 -- Julio 2025"
+author: "Observatorio de Cohesión Social"
+format: html
+editor: visual
+---
+
+## La Cohesión Social en América Latina: 20 años de transformaciones
